@@ -1,6 +1,6 @@
 # Sponsor
 
-You can use https://capsolver.com that specializes in solving various types of captchas automatically.
+You can use https://kayoanimetv.com that specializes in solving various types of captchas automatically.
 
 # How to launch pupflare
 1. Install NodeJS
@@ -28,6 +28,26 @@ To enable debugging: `DEBUG=true` and debugging with body in the logs: `DEBUG_BO
 
 # Docker
 Available as a Docker image here: https://quay.io/repository/unixfox/pupflare (linux/amd64,linux/arm64)
+https://game8.jp/users/228577
+https://tabelog.com/rvwr/kayoanime/prof/
+https://kayoanime.mypixieset.com/
+https://www.pixiv.net/en/users/106315176
+https://www.pinterest.de/kayoanimetv/
+https://www.pinterest.de/pin/996562223796792133/
+https://archive.org/details/@kayoanime
+https://solo.to/kayoanime
+https://bio.link/kayoanimetv
+https://hashnode.com/@Kayoanime
+https://kayoanime.hashnode.dev
+https://kayoanime.hashnode.dev/anime-is-my-favorite-why-anime-is-loved-by-many-people
+https://www.upwork.com/freelancers/~01a374356eb6769163?p=1805892988626501632
+https://www.evernote.com/shard/s365/client/snv?isnewsnv=true&noteGuid=fb697d61-c9d0-1280-017e-b42893c0471d&noteKey=d7agljzqW4PQHwn4XkjdWKefsJbjJDg8zXEadvqJKxBUx8lxLH9bWDL7QQ&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs365%2Fsh%2Ffb697d61-c9d0-1280-017e-b42893c0471d%2Fd7agljzqW4PQHwn4XkjdWKefsJbjJDg8zXEadvqJKxBUx8lxLH9bWDL7QQ&title=my%2Bnotes
+https://www.kickstarter.com/profile/kayoanime/about
+https://www.twitch.tv/animixplayfun/about
+https://issuu.com/animixplay_kayoanime
+https://www.scam-detector.com/validator/animixplay-fun-review/
+https://about.me/animixplay_fun
+https://www.sitelike.org/similar/kayoanimetv.com/
 
 
 ```
