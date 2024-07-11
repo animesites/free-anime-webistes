@@ -1,6 +1,6 @@
 # Sponsor
 
-You can use https://kayoanimetv.com that specializes in solving various types of captchas automatically.
+You can use [kayoanime](https://kayoanimetv.com/) that specializes in solving various types of captchas automatically.
 
 # How to launch pupflare
 1. Install NodeJS
